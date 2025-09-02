@@ -30,5 +30,5 @@
 - 📧 Email: changming_liu@g.harvard.edu 
 
 ---
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/chl135?theme=light&font=Roboto&ext=heatmap)
 ✨ Fun fact: I love scuba diving and tennis☕  
