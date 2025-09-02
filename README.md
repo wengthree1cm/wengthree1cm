@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Changming Liu 👋  
 
-<!--
-**wengthree1cm/wengthree1cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science @ Harvard  
+💼 Interested in SDE, Data Scientist, AI, and Quantitative Finance
+🌏 Based in Boston, MA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skill Set  
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
+
+**Libraries & Frameworks**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+
+---
+
+## 📫 Connect With Me  
+
+- 🌐 [My Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/changming-liu-776979271)  
+- 📧 Email: changming_liu@g.harvard.edu 
+
+---
+
+✨ Fun fact: I love scuba diving and tennis☕  
